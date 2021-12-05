@@ -1,5 +1,5 @@
 # AroundWeb
-A project on a social network web app, based on Elasticsearch and Google GCS, deployed to Google GAE and AWS Amplify.
+A web app on social network, based on Elasticsearch and Google GCS, deployed to Google GAE and AWS Amplify.
 - Front-end: JavaScript, React
 - Back-end: Go
 
